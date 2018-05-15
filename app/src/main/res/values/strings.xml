@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Produk Halal MUI</string>
+    <string name="keterangan">Cari produk makanan, minuman dan obat-obatan yang telah lolos spesifikasi halal oleh Majelis Ulama Indonesia (MUI). Cari produk berdasarkan nama produk, nama produsen atau nomor sertifikat.</string>
+    <string name="nama_produk">Nama Produk</string>
+    <string name="produsen">Produsen</string>
+    <string name="nama_produsen">Nama Produsen</string>
+    <string name="nomor_sertifikat">Nomor Sertifikat</string>
+    <string name="berlaku_hingga">Berlaku Hingga</string>
+    <string name="_27_september_2018">27 September 2018</string>
+    <string name="_00090000300799">00090000300799</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="belum_ada_data_yang_ditampilkan">Belum ada data yang ditampilkan.</string>
+    <string name="nama_produk_nama_produsen_nomor_sertifikat">Nama Produk, Nama Produsen, Nomor Sertifikat</string>
+    <string name="pencarian">Pencarian</string>
+    <string-array name="pilih_kategori">
+        <item>Nama Produk</item>
+        <item>Nama Produsen</item>
+        <item>Nomor Sertifikat</item>
+    </string-array>
+</resources>
